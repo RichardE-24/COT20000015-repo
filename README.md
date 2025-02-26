@@ -1,2 +1,2 @@
 # COT20000015-repo
-Lab 6
+A repository to keep COT2000 labs code.
